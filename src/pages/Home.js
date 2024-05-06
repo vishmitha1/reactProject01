@@ -4,7 +4,8 @@ import TestComponnts from "../comonents/TestComponnts"
 function Home() {
     return (
         <div>
-            Home<TestComponnts />
+            Home
+            <TestComponnts />
         </div>
     )
 }
