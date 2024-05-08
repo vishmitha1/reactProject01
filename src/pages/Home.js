@@ -1,11 +1,11 @@
 // import React from 'react'
-import TestComponnts from "../comonents/TestComponnts"
+import Navbar from "../comonents/header/Navbar"
 
 function Home() {
     return (
         <div>
+            <Navbar />
             Home
-            <TestComponnts />
         </div>
     )
 }
